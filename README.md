@@ -1,0 +1,2 @@
+# stm32l432kc_sht31_epd
+STM32L432KC + SHT31D + 2.13 EPD
